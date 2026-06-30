@@ -1,0 +1,6 @@
+{
+  "name": "Salamora Restaurant",
+  "description": "A modern, sophisticated restaurant website with elegant typography, menu filtering, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
