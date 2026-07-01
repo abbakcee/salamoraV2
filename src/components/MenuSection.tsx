@@ -68,7 +68,7 @@ export function MenuSection() {
                     {item.name}
                   </h4>
                   <span className="text-brand-500 font-medium whitespace-nowrap ml-4">
-                    ${item.price.toFixed(2)}
+                    ₦{item.price.toLocaleString()}
                   </span>
                 </div>
                 <p className="text-zinc-400 text-sm font-light leading-relaxed">
